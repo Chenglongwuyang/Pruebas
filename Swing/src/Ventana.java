@@ -12,7 +12,7 @@ public class Ventana extends JFrame {
 	
 	public Ventana() {
 		this.setTitle("He cambiado el titulo de la ventana");
-		this.setSize(620, 440);
+		this.setSize(640, 540);
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		this.setVisible(true);
 		
